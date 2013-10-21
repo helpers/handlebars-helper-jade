@@ -1,24 +1,24 @@
 {
-  "name": "helper-jade",
-  "version": "0.1.0",
+  "name": "handlebars-helper-jade",
+  "version": "0.1.1",
   "description": "Compile Jade templates using a handlebars helper.",
-  "homepage": "https://github.com/helpers/helper-jade",
+  "homepage": "https://github.com/helpers/handlebars-helper-jade",
   "author": {
     "name": "Jon Schlinkert",
     "url": "https://github.com/jonschlinkert"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/helpers/helper-jade.git"
+    "url": "https://github.com/helpers/handlebars-helper-jade.git"
   },
   "bugs": {
-    "url": "https://github.com/helpers/helper-jade/issues"
+    "url": "https://github.com/helpers/handlebars-helper-jade/issues"
   },
   "main": "index.js",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/helpers/helper-jade/blob/master/LICENSE-MIT"
+      "url": "https://github.com/helpers/handlebars-helper-jade/blob/master/LICENSE-MIT"
     }
   ],
   "dependencies": {

@@ -1,4 +1,4 @@
-# {{jade}} [![NPM version](https://badge.fury.io/js/helper-jade.png)](http://badge.fury.io/js/helper-jade)
+# {{jade}} [![NPM version](https://badge.fury.io/js/handlebars-helper-jade.png)](http://badge.fury.io/js/handlebars-helper-jade)
 
 > A Handlebars helper for converting Jade to HTML.
 
@@ -6,7 +6,7 @@
 In the root of your project, run the following in the command line:
 
 ```bash
-npm i helper-jade --save
+npm i handlebars-helper-jade --save-dev
 ```
 
 ## Usage
